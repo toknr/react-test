@@ -7,7 +7,7 @@ const rootElement = document.getElementById("root");
 ReactDOM.render(
   <StrictMode>
     <App />
-    textを追加
+    textを追加 さらにテキスト追加
   </StrictMode>,
   rootElement
 );
